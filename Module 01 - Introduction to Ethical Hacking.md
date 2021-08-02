@@ -380,4 +380,4 @@ Is a risk assessment approach for analyzing the security of an application by ca
 
 <br>
 
-> **Go To [Module 02 - Footprinting & Reconnaissance]()**
+> **Go To [Module 02 - Footprinting & Reconnaissance](https://github.com/yorickcleerbout/CEHv11/blob/master/Module%2002%20-%20Footprinting%20%26%20Reconnaissance.md)**
