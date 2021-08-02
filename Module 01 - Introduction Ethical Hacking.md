@@ -259,6 +259,8 @@ A hacker is a person who breaks into a system or network without authorization t
 * **Clearing Tracks**
     * A hacker will usually attempt to erase all evidence of their action to remain undetected but still maintaining access to the compromised system or network.
 
+<br>
+
 ## **Ethical Hacking Concepts**
 
 ### 🔷 **What is Ethical Hacking?**
@@ -302,6 +304,8 @@ Information security controls prevent the occurance of unwanted events and reduc
 
 * **Defence-in-Depth**
     * This is a security strategy in which security professionals use several protection layers throughout an information system. This strategy uses military principle that it is more difficult for an enemy to defeat a complex and multi-layered defense system than to penetrate a single barrier.
+    <br>
+    
     ![DiD](https://img-blog.csdnimg.cn/20201129155053952.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Rhb2YyMTE=,size_16,color_FFFFFF,t_70)
 
 <br>
