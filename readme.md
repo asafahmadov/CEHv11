@@ -9,7 +9,7 @@ In this repository you can find my personal notes for each module in the course.
 ## Table of Contents
 | Module                                                                                                     | Status |
 | ------------------------------------------------------------------------------------------------------- | :------: |
-| [Module 01: Introduction to Ethical Hacking]()                                                                                          |     ✔     |
+| [Module 01: Introduction to Ethical Hacking](https://github.com/yorickcleerbout/CEHv11/blob/master/Module%2001%20-%20Introduction%20to%20Ethical%20Hacking.md)                                                                                          |     ✔     |
 | [Module 02: Footprinting & Reconnaissance]()                                                                                          |      x    |
 | [Module 03: Scanning Networks]()                                                                                          |     x     |
 | [Module 04: Enumeration]()                                                                                          |     x     |
